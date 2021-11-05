@@ -1,0 +1,31 @@
+ 2021-11-05 16:32:16,767 - DEBUG - Program Begins
+ 2021-11-05 16:32:16,768 - INFO - Function possibleMeals() beginning with an ingrediants value of 5 and a chosen value of 2
+ 2021-11-05 16:32:16,768 - DEBUG - Proceeds with conversion if parameters are correct.
+ 2021-11-05 16:32:16,768 - INFO - Maximum outcomes with no repeats using ingrediants and chosen is calculated to be 20.0. Value is being returned.
+ 2021-11-05 16:32:16,768 - INFO - Function possibleMeals() beginning with an ingrediants value of 10 and a chosen value of 3
+ 2021-11-05 16:32:16,768 - DEBUG - Proceeds with conversion if parameters are correct.
+ 2021-11-05 16:32:16,768 - INFO - Maximum outcomes with no repeats using ingrediants and chosen is calculated to be 720.0. Value is being returned.
+ 2021-11-05 16:32:16,769 - INFO - Function possibleMeals() beginning with an ingrediants value of 2 and a chosen value of 2
+ 2021-11-05 16:32:16,769 - DEBUG - Proceeds with conversion if parameters are correct.
+ 2021-11-05 16:32:16,769 - INFO - Maximum outcomes with no repeats using ingrediants and chosen when both parameters are equal is calculated to be 2. Value is being returned.
+ 2021-11-05 16:32:16,769 - INFO - Function possibleMeals() beginning with an ingrediants value of 15 and a chosen value of 5
+ 2021-11-05 16:32:16,769 - DEBUG - Proceeds with conversion if parameters are correct.
+ 2021-11-05 16:32:16,769 - INFO - Maximum outcomes with no repeats using ingrediants and chosen is calculated to be 360360.0. Value is being returned.
+ 2021-11-05 16:32:16,769 - INFO - Function possibleMeals() beginning with an ingrediants value of 15 and a chosen value of 1
+ 2021-11-05 16:32:16,769 - DEBUG - Proceeds with conversion if parameters are correct.
+ 2021-11-05 16:32:16,770 - INFO - Maximum outcomes with no repeats using ingrediants and chosen is calculated to be 15.0. Value is being returned.
+ 2021-11-05 16:32:16,770 - INFO - Function tableSize() beginning with a value of 22 meters
+ 2021-11-05 16:32:16,770 - DEBUG - Proceeds with conversion if parameter is correct.
+ 2021-11-05 16:32:16,770 - INFO - Radius of table is calculated to be 1520.5 meters. Value is being returned.
+ 2021-11-05 16:32:16,770 - INFO - Function tableSize() beginning with a value of 2 meters
+ 2021-11-05 16:32:16,770 - DEBUG - Proceeds with conversion if parameter is correct.
+ 2021-11-05 16:32:16,770 - INFO - Radius of table is calculated to be 12.6 meters. Value is being returned.
+ 2021-11-05 16:32:16,770 - INFO - Function tableSize() beginning with a value of 5 meters
+ 2021-11-05 16:32:16,770 - DEBUG - Proceeds with conversion if parameter is correct.
+ 2021-11-05 16:32:16,770 - INFO - Radius of table is calculated to be 78.5 meters. Value is being returned.
+ 2021-11-05 16:32:16,770 - INFO - Function tableSize() beginning with a value of 10 meters
+ 2021-11-05 16:32:16,770 - DEBUG - Proceeds with conversion if parameter is correct.
+ 2021-11-05 16:32:16,770 - INFO - Radius of table is calculated to be 314.2 meters. Value is being returned.
+ 2021-11-05 16:32:16,770 - INFO - Function tableSize() beginning with a value of 150 meters
+ 2021-11-05 16:32:16,770 - DEBUG - Proceeds with conversion if parameter is correct.
+ 2021-11-05 16:32:16,770 - INFO - Radius of table is calculated to be 70685.8 meters. Value is being returned.
